@@ -1,0 +1,25 @@
+format,no,captain,from_year,to_year,played,won,lost
+Test,29,Misbah-ul-Haq,2011,2017,56.0,26.0,19.0
+Test,31,Azhar Ali,2016,2020,9.0,2.0,4.0
+Test,32,Sarfraz Ahmed,2017,2019,13.0,4.0,8.0
+Test,33,Mohammad Rizwan,2021,2021,2.0,0.0,2.0
+Test,34,Babar Azam,2020,2026,24.0,11.0,9.0
+Test,35,Shan Masood,2023,2026,16.0,4.0,12.0
+Test,36,Salman Ali Agha,2026,2026,1.0,0.0,1.0
+ODI,23,Shoaib Malik,2007,2019,41.0,25.0,16.0
+ODI,24,Misbah-ul-Haq,2008,2015,87.0,45.0,39.0
+ODI,26,Azhar Ali,2015,2017,31.0,12.0,18.0
+ODI,27,Sarfraz Ahmed,2015,2019,50.0,28.0,20.0
+ODI,28,Mohammad Hafeez,2017,2017,2.0,1.0,1.0
+ODI,29,Imad Wasim,2019,2019,2.0,0.0,2.0
+ODI,30,Babar Azam,2020,2023,43.0,26.0,15.0
+ODI,31,Mohammad Rizwan,2023,2025,20.0,9.0,0.0
+ODI,32,Shaheen Shah Afridi,2025,2026,9.0,6.0,0.0
+T20I,5,Shahid Afridi,2009,2016,43.0,19.0,23.0
+T20I,7,Sarfraz Ahmed,2016,2020,37.0,29.0,8.0
+T20I,8,Babar Azam,2019,2024,85.0,48.0,29.0
+T20I,9,Shadab Khan,2020,2023,6.0,2.0,4.0
+T20I,10,Shaheen Afridi,2024,2024,5.0,1.0,4.0
+T20I,11,Mohammad Rizwan,2023,2023,4.0,0.0,4.0
+T20I,12,Salman Ali Agha,2024,2026,46.0,27.0,17.0
+T20I,13,Sahibzada Farhan,2026,2026,,,

@@ -1,0 +1,18 @@
+date,format,opponent,venue,city,tournament,stage,result,margin,pak_score,opp_score,toss_winner,toss_decision,player_of_match
+2018-09-21,ODI,Afghanistan,Sheikh Zayed Stadium,Abu Dhabi,Asia Cup,Super 4,Won,3 wickets,258/7,257/6,Afghanistan,bat,Shoaib Malik
+2019-06-29,ODI,Afghanistan,"Headingley, Leeds",Leeds,ICC Cricket World Cup,Group,Won,3 wickets,230/7,227/9,Afghanistan,bat,Imad Wasim
+2021-10-29,T20I,Afghanistan,Dubai International Cricket Stadium,Dubai,ICC Men's T20 World Cup,Group,Won,5 wickets,148/5,147/6,Afghanistan,bat,Asif Ali
+2022-09-07,T20I,Afghanistan,Sharjah Cricket Stadium,Sharjah,Asia Cup,Super 4,Won,1 wicket,131/9,129/6,Pakistan,field,Shadab Khan
+2023-03-24,T20I,Afghanistan,Sharjah Cricket Stadium,Sharjah,Afghanistan v Pakistan T20I Series,,Lost,6 wickets,92/9,98/4,Pakistan,bat,Mohammad Nabi
+2023-03-26,T20I,Afghanistan,Sharjah Cricket Stadium,Sharjah,Afghanistan v Pakistan T20I Series,,Lost,7 wickets,130/6,133/3,Pakistan,bat,Fazalhaq Farooqi
+2023-03-27,T20I,Afghanistan,Sharjah Cricket Stadium,Sharjah,Afghanistan v Pakistan T20I Series,,Won,66 runs,182/7,116/10,Afghanistan,field,Shadab Khan
+2023-08-22,ODI,Afghanistan,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Hambantota,Afghanistan tour of Sri Lanka,,Won,142 runs,201/10,59/10,Pakistan,bat,Haris Rauf
+2023-08-24,ODI,Afghanistan,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Hambantota,Afghanistan tour of Sri Lanka,,Won,1 wicket,302/9,300/5,Afghanistan,bat,Shadab Khan
+2023-08-26,ODI,Afghanistan,"R Premadasa Stadium, Colombo",Colombo,Afghanistan tour of Sri Lanka,,Won,59 runs,268/8,209/10,Pakistan,bat,Mohammad Rizwan
+2023-10-06,T20I,Afghanistan,Zhejiang University of Technology Cricket Field,Hangzhou,Asian Games Men's Cricket Competition,Semi Final,Lost,4 wickets,115/10,116/6,Afghanistan,field,
+2023-10-23,ODI,Afghanistan,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,ICC Cricket World Cup,Group,Lost,8 wickets,282/7,286/2,Pakistan,bat,Ibrahim Zadran
+2025-08-29,T20I,Afghanistan,Sharjah Cricket Stadium,Sharjah,United Arab Emirates T20I Tri-Series,Group,Won,39 runs,182/7,143/10,Pakistan,bat,Salman Ali Agha
+2025-09-02,T20I,Afghanistan,Sharjah Cricket Stadium,Sharjah,United Arab Emirates T20I Tri-Series,Group,Lost,18 runs,151/9,169/5,Afghanistan,bat,Ibrahim Zadran
+2025-09-07,T20I,Afghanistan,Sharjah Cricket Stadium,Sharjah,United Arab Emirates T20I Tri-Series,Final,Won,75 runs,141/8,66/10,Pakistan,bat,Mohammad Nawaz
+2026-10-18,ODI,Sri Lanka,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan ODI Tri-Series,Group,Won,37 runs,305/10,268/10,Sri Lanka,field,
+2026-10-20,ODI,England,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan ODI Tri-Series,Group,Won,87 runs,302/9,215/10,England,field,Arafat Minhas

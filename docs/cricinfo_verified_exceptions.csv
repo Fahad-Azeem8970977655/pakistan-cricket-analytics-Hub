@@ -1,0 +1,3 @@
+table,match_id,innings,player,field,scorecard_value,delivery_value,cricinfo_value,note
+pak_batting,manual_2,2,Haris Sohail,balls,57,56,57,Cricinfo scorecard shows 27 (57); the ESPN deliveries are one ball short
+pak_batting,manual_2,2,Imad Wasim,balls,54,55,54,Cricinfo scorecard shows 49 (54); the ESPN deliveries are one ball over

@@ -1,0 +1,45 @@
+table,match_id,innings,who,field,before,after
+pak_batting,manual_9,2,Shadab Khan,fours,8,3
+pak_batting,manual_9,2,Naseem Shah,fours,1,2
+pak_batting,manual_9,2,Naseem Shah,sixes,2,0
+opp_batting,manual_3,1,Rahmanullah Gurbaz,fours,2,0
+opp_batting,manual_3,1,Rahmanullah Gurbaz,sixes,0,1
+opp_batting,manual_3,1,Karim Janat,fours,2,1
+opp_batting,manual_3,1,Karim Janat,sixes,0,1
+opp_batting,manual_3,1,Gulbadin Naib,sixes,2,1
+pak_batting,manual_12,1,Mohammad Rizwan,sixes,0,1
+pak_batting,manual_12,1,Iftikhar Ahmed,sixes,2,4
+opp_batting,manual_4,1,Hazratullah Zazai,fours,2,4
+opp_batting,manual_4,1,Hazratullah Zazai,sixes,1,0
+opp_batting,manual_4,1,Rahmanullah Gurbaz,fours,1,0
+opp_batting,manual_4,1,Rahmanullah Gurbaz,sixes,1,2
+opp_batting,manual_4,1,Azmatullah Omarzai,fours,0,1
+opp_batting,manual_4,1,Rashid Khan,fours,0,2
+opp_bowling,manual_14,2,AM Ghazanfar,row (old card),18 balls 24 runs 0 wkts,
+opp_bowling,manual_14,2,Fazalhaq Farooqi,row (old card),18 balls 21 runs 2 wkts,
+opp_bowling,manual_14,2,Azmatullah Omarzai,row (old card),12 balls 30 runs 0 wkts,
+opp_bowling,manual_14,2,Rashid Khan,row (old card),24 balls 30 runs 2 wkts,
+opp_bowling,manual_14,2,Mohammad Nabi,row (old card),24 balls 20 runs 2 wkts,
+opp_bowling,manual_14,2,Karim Janat,row (old card),24 balls 25 runs 0 wkts,
+opp_bowling,manual_14,2,AM Ghazanfar,row (from deliveries),,18 balls 24 runs 0 wkts
+opp_bowling,manual_14,2,Fazalhaq Farooqi,row (from deliveries),,18 balls 21 runs 2 wkts
+opp_bowling,manual_14,2,Azmatullah Omarzai,row (from deliveries),,12 balls 30 runs 0 wkts
+opp_bowling,manual_14,2,Rashid Khan,row (from deliveries),,24 balls 30 runs 2 wkts
+opp_bowling,manual_14,2,Mohammad Nabi,row (from deliveries),,24 balls 20 runs 2 wkts
+opp_bowling,manual_14,2,Noor Ahmad,row (from deliveries),,24 balls 20 runs 2 wkts
+opp_bowling,manual_4,2,Mujeeb Ur Rahman,row (old card),20 balls 13 runs 0 wkts,
+opp_bowling,manual_4,2,Fazalhaq Farooqi,row (old card),24 balls 31 runs 3 wkts,
+opp_bowling,manual_4,2,Fareed Ahmad,row (old card),24 balls 31 runs 3 wkts,
+opp_bowling,manual_4,2,Rashid Khan,row (old card),24 balls 26 runs 2 wkts,
+opp_bowling,manual_4,2,Mohammad Nabi,row (old card),24 balls 25 runs 0 wkts,
+opp_bowling,manual_4,2,Fazalhaq Farooqi,row (from deliveries),,20 balls 31 runs 3 wkts
+opp_bowling,manual_4,2,Mujeeb Ur Rahman,row (from deliveries),,24 balls 12 runs 0 wkts
+opp_bowling,manual_4,2,Fareed Ahmad,row (from deliveries),,24 balls 31 runs 3 wkts
+opp_bowling,manual_4,2,Rashid Khan,row (from deliveries),,24 balls 25 runs 2 wkts
+opp_bowling,manual_4,2,Mohammad Nabi,row (from deliveries),,18 balls 22 runs 0 wkts
+opp_bowling,manual_4,2,Azmatullah Omarzai,row (from deliveries),,6 balls 6 runs 0 wkts
+pak_matches,manual_9,,,pak_fours,27.0,23
+pak_matches,manual_9,,,pak_sixes,3.0,1
+pak_matches,manual_9,,,pak_boundary_pct,41.7,32.5
+pak_matches,manual_12,,,pak_sixes,6.0,9
+pak_matches,manual_12,,,pak_boundary_pct,36.9,43.3

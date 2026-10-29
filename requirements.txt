@@ -1,0 +1,9 @@
+streamlit>=1.40
+pandas
+numpy
+plotly
+requests
+scipy
+openpyxl
+scikit-learn
+tabulate

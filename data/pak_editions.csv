@@ -1,0 +1,23 @@
+edition,tournament_group,year,format,start,end,played,won,lost,stage_reached,stage_source,provisional,stage_check_needed
+ODI World Cup 2015,ODI World Cup,2015,ODI,2015-02-15,2015-03-20,7,4,3,Quarter-final,cricsheet,False,False
+Asia Cup (T20) 2016,Asia Cup (T20),2016,T20I,2016-02-27,2016-03-04,4,2,2,Group/League stage,inferred,False,False
+T20 World Cup 2016,T20 World Cup,2016,T20I,2016-03-16,2016-03-25,4,1,3,Super stage,cricsheet,False,False
+Champions Trophy 2017,Champions Trophy,2017,ODI,2017-06-04,2017-06-18,5,4,1,Champions,cricsheet,False,False
+Zimbabwe Twenty20 Tri-Series 2018,Zimbabwe Twenty20 Tri-Series,2018,T20I,2018-07-01,2018-07-08,5,4,1,Champions,cricsheet,False,False
+Asia Cup (ODI) 2018,Asia Cup (ODI),2018,ODI,2018-09-16,2018-09-26,5,2,3,Group/League stage,inferred,False,False
+ODI World Cup 2019,ODI World Cup,2019,ODI,2019-05-31,2019-07-05,8,5,3,Group/League stage,inferred,False,False
+T20 World Cup 2021,T20 World Cup,2021,T20I,2021-10-24,2021-11-11,6,5,1,Semi-final,cricsheet,False,False
+Asia Cup (T20) 2022,Asia Cup (T20),2022,T20I,2022-08-28,2022-09-11,6,3,3,Runners-up,cricsheet,False,False
+New Zealand T20I Tri-Series 2022,New Zealand T20I Tri-Series,2022,T20I,2022-10-07,2022-10-14,5,4,1,Champions,cricsheet,False,False
+T20 World Cup 2022,T20 World Cup,2022,T20I,2022-10-23,2022-11-13,7,4,3,Runners-up,cricsheet,False,False
+Asia Cup (ODI) 2023,Asia Cup (ODI),2023,ODI,2023-08-30,2023-09-14,5,2,2,Group/League stage,inferred,False,False
+Asian Games 2023,Asian Games,2023,T20I,2023-10-03,2023-10-07,3,1,2,Play-off,cricsheet,False,False
+ODI World Cup 2023,ODI World Cup,2023,ODI,2023-10-06,2023-11-11,9,4,5,Group/League stage,inferred,False,False
+T20 World Cup 2024,T20 World Cup,2024,T20I,2024-06-06,2024-06-16,4,2,1,Group/League stage,inferred,False,False
+Pakistan Tri-Nation Series 2025,Pakistan Tri-Nation Series,2025,ODI,2025-02-08,2025-02-14,3,1,2,Runners-up,cricsheet,False,False
+Champions Trophy 2025,Champions Trophy,2025,ODI,2025-02-19,2025-02-23,2,0,2,Group/League stage,inferred,False,False
+United Arab Emirates T20I Tri-Series 2025,United Arab Emirates T20I Tri-Series,2025,T20I,2025-08-29,2025-09-07,5,4,1,Champions,manual,False,False
+Asia Cup (T20) 2025,Asia Cup (T20),2025,T20I,2025-09-12,2025-09-28,7,4,3,Runners-up,cricsheet,False,False
+Pakistan T20I Tri-Series 2025,Pakistan T20I Tri-Series,2025,T20I,2025-11-18,2025-11-29,5,4,1,Champions,cricsheet,False,False
+T20 World Cup 2026,T20 World Cup,2026,T20I,2026-02-07,2026-02-28,6,4,2,Super stage,manual,False,False
+Asian Games 2026,Asian Games,2026,T20I,2026-10-01,2026-10-03,2,1,1,Runners-up,cricsheet,False,False
