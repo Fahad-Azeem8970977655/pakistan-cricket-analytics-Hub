@@ -3,15 +3,7 @@
 End-to-end analytics for Pakistan men's cricket, 2015 to 2026 (Tests, ODIs, T20Is): ~480 matches, ball-by-ball detail for 479 of them,
 25 pages covering team, player, opposition, venue and match views, win-probability models, and an AI assistant that answers questions on the data.
 
-**Live app:** _add your Streamlit Cloud link here_  |  **Demo video:** _add link or `docs/demo.mp4`_
-
-## Screenshots
-| | |
-|---|---|
-| ![Overview](docs/screenshots/01_overview.png) | ![Captains and coaches](docs/screenshots/03_captains_coaches.png) |
-| ![Match predictor](docs/screenshots/05_match_predictor.png) | ![Ask the data](docs/screenshots/06_ask_the_data.png) |
-
-(Shot list: `docs/SCREENSHOT_GUIDE.md`.)
+**Live app:** _add your Streamlit Cloud link here_
 
 ## What is in it
 * **Team:** rise and fall by era, tournaments, opponents and venues, head-to-head, toss and chase, venue profiles.
@@ -67,7 +59,7 @@ scripts/                   data build and merge scripts (merge_afghanistan_score
 data/                      cleaned CSVs (matches, batting, bowling, overs, partnerships, ...)
 eras/                      captain and coach sources and generated stints
 extra/  incoming/          hand-added matches and Afghanistan scorecards, raw sources
-docs/                      model evaluation, data notes, screenshot guide, screenshots/
+docs/                      model evaluation and data notes
 pages/                     one file per dashboard page
 utils/  views/             shared loaders, theme, ML helpers, overview (see note below)
 ```
