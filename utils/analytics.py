@@ -63,7 +63,7 @@ def batting_form(b, n=5, min_inns=15, active_days=540, hot=10.0):
     for p, g in x.groupby("player"):
         if len(g) < min_inns or (last - g.date.max()).days > active_days: continue
         l, l10 = g.tail(n), g.tail(10)
-        rows.append({"Player": p, "Inns": len(g), "Last-5 scores": _scores(l), "Last-5 RAP/inn": round(l.rap.mean(), 1),
+        rows.append({"Player": p, "Inns": len(g), "Last-5 scores": _scores(l), "Last-5 RAP/inn": round(l.rap.mean(), 1), "Last-5 avg runs": round(l.runs.mean(), 1),
                      "Career RAP/inn": round(g.rap.mean(), 1), "20+ rate": round(100 * (g.runs >= 20).mean(), 0),
                      "20+ rate (last 10)": round(100 * (l10.runs >= 20).mean(), 0)})
     f = pd.DataFrame(rows)
