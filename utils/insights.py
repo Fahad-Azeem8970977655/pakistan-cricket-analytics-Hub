@@ -94,9 +94,9 @@ def generate(m, b, w, form_bat=None):
         k = w.groupby("player").wickets.sum().sort_values(ascending=False)
         if len(k): out.append(("info", f"**{k.index[0]}** leads the wicket-takers with {int(k.iloc[0])} wickets."))
     if form_bat is not None and len(form_bat):
-        hot = form_bat[form_bat.Status.str.contains("Hot")].head(2).Player.tolist()
+        hot = form_bat[form_bat.Status.str.contains("Hot") & (form_bat["Last-5 avg runs"] >= 30)].head(3).Player.tolist()
         cold = form_bat[form_bat.Status.str.contains("Cold")].tail(2).Player.tolist()
-        if hot: out.append(("up", f"In form with the bat (runs above par, last 5 innings): **{', '.join(hot)}**."))
+        if hot: out.append(("up", f"In form with the bat (runs above par and 30+ runs per innings, last 5 innings): **{', '.join(hot)}**."))
         if cold: out.append(("down", f"Struggling for runs lately: **{', '.join(cold)}**."))
     return out
 
